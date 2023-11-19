@@ -1,5 +1,8 @@
 # DVM-R1-timeTable
 
+# How to Run?
+* run main.py from terminal
+
 ## Requirements fulfilled::
 1. TimeTable in excel with admin privilige password
 2. CSV exported from instance of Sections and checks for TimeClash for users
