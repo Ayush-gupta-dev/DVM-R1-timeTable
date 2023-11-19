@@ -2,6 +2,7 @@
 
 # How to Run?
 * run main.py from terminal
+* Do install sqlite viewer and office viewer extension to see changes in Vs code only.
 
 ## Requirements fulfilled::
 1. TimeTable in excel with admin privilige password
